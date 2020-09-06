@@ -7,7 +7,7 @@
 Raw data exists in multiple places and forms. In order to perform any kind of data analysis, this data needs to be cleaned and structured. Data pipeline process **ETL – Extract, Transform, and Load** is a core concept in data engineering, ensuring that data is consistent, maintains its integrity, and nontheless strives for automatization of data wrangling. Without a consistent and robust data structure, it’s nearly impossible to perform any meaningful analysis. 
 
 <p align="center">  
-<img src="Graphics/ETL.PNG" width="60%" height="60%">
+<img src="Graphics/ETL.PNG" width="45%" height="45%">
 </p>
 
 <p align="center">  
@@ -23,6 +23,8 @@ The Amazing Prime, a video streaming company, decided to sponsor a *hackathon*, 
     - data from Kaggle website for rating data.
 -	**Transforming** data using Jupyter Notebook, Python, Pandas and Python RegEx module.
 -	**Loading** data using PostgreSQL and pgAdmin to host final cleaned data set.
+
+## Overview of the code
 
 The goal of this analysis is to create automated pipeline that extracts, transform and loads data. This analysis consists of four parts, where each step is building up from beginning of extracting data and function testing, through transformation and cleaning process to its final step connect and load to the database.  The entire process of ETL is can be executed with a single call of the function ***extract_transform_load***. The ETL procedure is broken down into four jupyter notebook the files:
 
@@ -72,3 +74,9 @@ Software:
 ## References
 - (1) Module 8. Extractm Transform, Load, https://courses.bootcampspot.com/courses/200/pages/8-dot-1-1-extract-transform-load?module_item_id=73402, Trilogy Education Services, 2000, Web 6 Sept 2020.
 
+## Other Useful Articles
+- [apply & map methods](https://www.geeksforgeeks.org/difference-between-map-applymap-and-apply-methods-in-pandas/)
+- [List comprehension](https://www.youtube.com/watch?v=3dt4OGnU5sM&feature=youtu.be)
+- [More list comprehension](https://realpython.com/list-comprehension-python/)
+- [Lambda functions](https://realpython.com/python-lambda/)
+- [RegEx](https://www.programiz.com/python-programming/regex)
