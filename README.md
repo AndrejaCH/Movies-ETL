@@ -1,5 +1,5 @@
-# Movies ETL
-*An ETL Movies Analysis using Python, SQL Database *
+# ETL - Extract, Transform and Load
+*An ETL Movies Analysis using Python, Python Libraries and SQL Databases*
 
 ## Project Overview
 
