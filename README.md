@@ -11,7 +11,7 @@ Raw data exists in multiple places and forms. In order to perform any kind of da
 </p>
 
 <p align="center">  
-ETL process (1).
+    <i>Figure 1: ETL process (1).</i>
 </p>
 
 ### Purpose
