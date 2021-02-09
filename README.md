@@ -1,5 +1,5 @@
 # Movies ETL
-*An ETL Movies Analysis*
+*An ETL Movies Analysis using Python, SQL Database *
 
 ## Project Overview
 
